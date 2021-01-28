@@ -1,6 +1,8 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 if __name__ == '__main__':
+    
     # Введём личные данные.
     username = input("What is your name? ")
     userage = input("How old are you? ")
@@ -10,3 +12,4 @@ if __name__ == '__main__':
     print("This is", username)
     print("It is", userage)
     print("(S)he live in", userlive)
+     
