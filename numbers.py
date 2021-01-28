@@ -1,6 +1,8 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 if __name__ == '__main__':
+    
     # Ввести 4 числа.
     number1 = float(input("Введите первое число"))
     number2 = float(input("Введите второе число"))
@@ -15,3 +17,4 @@ if __name__ == '__main__':
 
     # Вывести результат с двумя числами после запятой.
     print("% .2f" % div)
+    
